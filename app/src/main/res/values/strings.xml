@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My ApplicationNew</string>
+    <string name="mag1">magnitude</string>
+    <string name="loc1">location</string>
+    <string name="date1">date</string>
+
+    <string name="details">Details</string>
+    <string name="title_activity_maps">Map</string>
+
+</resources>
